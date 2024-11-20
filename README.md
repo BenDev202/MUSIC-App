@@ -1,7 +1,5 @@
-# Day #75
-
 ### Mini Music Player
-In this tutorial ([Open in Youtube](https://youtu.be/SAzB_M2wpR0)), We will work on building a mini music player from scratch! In this beginner-friendly video, we'll walk you through the step-by-step process of creating a fully functional music player using HTML, CSS, and JavaScript.
+We will work on building a mini music player from scratch! In this beginner-friendly video, we'll walk you through the step-by-step process of creating a fully functional music player using HTML, CSS, and JavaScript.
 
 Here's what you'll learn:
 
