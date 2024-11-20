@@ -2,20 +2,20 @@ const songsList = [
     {
         name: "Jazz In Paris",
         artist: "Media Right Productions",
-        src: "assets/1.mp3",
-        cover: "assets/1.jpg"
+        src: "1.mp3",
+        cover: "1.jpg"
     },
     {
         name: "Blue Skies",
         artist: "Silent Partner",
-        src: "assets/2.mp3",
-        cover: "assets/2.jpg"
+        src: "2.mp3",
+        cover: "2.jpg"
     },
     {
         name: "Crimson Fly",
         artist: "Huma-Huma",
-        src: "assets/3.mp3",
-        cover: "assets/3.jpg"
+        src: "3.mp3",
+        cover: "3.jpg"
     }
 ];
 
